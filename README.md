@@ -48,7 +48,7 @@
 <img src="https://www.kcrm.eu/img/logos/jenkins.png" align="left" alt="Jenkins" width="28px" />
 <img src="https://www.kcrm.eu/img/logos/postman.png" align="left" alt="Postman" width="28px" />
 <img src="https://www.kcrm.eu/img/logos/rabbit-mq.png" align="left" alt="RabbitMQ" width="28px" />
-<img src="https://www.kcrm.eu/img/logos/webpack.png" align="left" alt="webpack" width="28px" /><br>
+<img src="https://www.kcrm.eu/img/logos/webpack.png" align="left" alt="webpack" width="28px" />
 <img src="https://www.kcrm.eu/img/logos/adobe-photoshop.png" align="left" alt="Adobe Photoshop" width="28px" />
 <img src="https://www.kcrm.eu/img/logos/adobe-illustrator.png" align="left" alt="Adobe Illustrator" width="28px" />
 <img src="https://www.kcrm.eu/img/logos/jira.png" align="left" alt="Jira" width="28px" />
